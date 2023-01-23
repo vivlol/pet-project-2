@@ -3,6 +3,8 @@
 body {
 	margin: 0px;
 	font-family: "Raleway", Sans-serif;
+	background: rgb(94,84,74);
+    	background: linear-gradient(90deg, rgba(94,84,74,1) 0%, rgba(88,145,138,1) 52%, rgba(27,54,60,1) 100%);
 }
 
 h1,
