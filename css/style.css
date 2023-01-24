@@ -4,7 +4,7 @@ body {
 	margin: 0px;
 	font-family: "Raleway", Sans-serif;
     	background: rgb(255,255,255);
-	background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(128,198,218,1) 50%, rgba(255,255,255,1) 100%);
+	background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(128,198,218,1) 0%, rgba(255,255,255,1) 100%);
 }
 
 h1,
